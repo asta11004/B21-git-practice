@@ -4,5 +4,6 @@ public class SecondClass {
         System.out.println("Second class");
 
         //after
+        //branch2
     }
 }
