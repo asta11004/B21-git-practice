@@ -7,6 +7,7 @@ public class SecondClass {
         //branch2
         //branch3
         //333
+        System.out.println("branch 3");
 
     }
 }
